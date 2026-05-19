@@ -1,0 +1,20 @@
+{
+  "custom_nodes": [
+    {
+      "url": "https://github.com/smthemex/ComfyUI_LTX2_SM",
+      "commit": null
+    },
+    {
+      "url": "https://github.com/kijai/ComfyUI-KJNodes",
+      "commit": null
+    },
+    {
+      "url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
+      "commit": null
+    },
+    {
+      "url": "https://github.com/comfy-org/ComfyUI_frontend",
+      "commit": null
+    }
+  ]
+}
